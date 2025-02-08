@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "waves",
+    "file": "samples/waves.mp3",
+    "bpm": "140",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "she's empty",
+    "file": "samples/she's_empty.mp3",
+    "bpm": "140",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "deep breaths girls",
+    "file": "samples/deep_breath_girls.mp3",
+    "bpm": "140",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
